@@ -1,0 +1,14 @@
+USE CASES:
+i) check all the hostipal in a particular city .
+ii)check hospital in a particular city where there is a particular department
+iii) get the top rated hospital in a particular city or state
+iv) get the list of nearest hospital from the where by providing zip code.
+v) get the list of hospital  where type of hospitals is Acute care hospitals are there in a particular state.
+vi) get the hospital info where the particular patient is admitted by using patientID.
+viiget the list of hospital which is for senior citizen and child care
+viii) Get the list of hospitals which are  acute care and critical accessable.
+ix) Hospitals which provides emergency services
+x) Hospitals having rating greater than 4
+xi) Hospitals with room avaibility in a particular area
+xii) Hospitals which is owed by hospital or Tribal
+xiii) Number of rooms available in a hospital in a particular city
